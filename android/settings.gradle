@@ -1,0 +1,3 @@
+rootProject.name = 'KitchenTimer'
+
+include ':app'
